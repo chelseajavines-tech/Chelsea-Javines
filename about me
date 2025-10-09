@@ -8,6 +8,9 @@
 <body>
     <h1>About Me</h1>
     <p>This is the about page.</p>
+<img src="yarn.gif" alt="Animated GIF">
+<a href="cat.html">
+    <img src="yarn.gif" alt="Click to enter">
+</a>
 </body>
 </html>
-<a href="about.html">Go to About Page</a>
