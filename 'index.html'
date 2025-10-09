@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta chartset="UTF-8">
+<head>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Page</title>
-  </head>
-  </body>
-    <h1>Welcome to My GitHub Page!</h1>
-  <p>This is my first website hosted on GitHub pages.</p>
-  <img src=yarn.gif" alt="Animated GIF"> 
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is my first HTML page.</p>
+<img src="yarn.gif" alt="Animated GIF">
 </body>
-</html> 
+</html>
